@@ -1,10 +1,73 @@
-@import url('https://fonts.googleapis.com/css?family=Mukta+Mahee|Oswald');
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Montserrat');
 h1 {
-  font-family: Oswald;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Merriweather', serif;
   test-align: center;
   background-color: gray;
   color: white;
 }
+
+#header {
+    width: 100%;
+    height: 100px;
+    background: cyan;
+    border-radius:15px;
+}
+
+#article {
+  width: 100%;
+  height: 2000px;
+  background: grey;
+  margin: 0 auto;
+}
+
+#navigation a {
+  font - size : 36m;
+  font-weight: 600 ;
+  text-decoration: none;
+  color: red;
+  font-family: 
+}
+div.pl {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+div.pl1 {
+    display: block;
+    margin-left:200px;
+    margin-right: auto;
+    width: 50%;
+}
+div.pl2 {
+    display: flow-root;
+    margin-left:200px;
+    margin-right: auto;
+    width: 50%;
+}
+div.logo {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
+}
+/*
+div.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+        /*
+        div.logo {
+            width:500px; /*width of your image
+             height:500px; /*height of your image
+             margin:00; /* If you want no margin
+             padding:100; /*if your want to padding */
+
 
 body {
 background-color: silver;

@@ -1,0 +1,28 @@
+
+
+
+#top {
+  width: 1000px;
+  height: 80px;
+  background-color: grey;
+  position: static;
+  top: 1;
+  left:1;
+
+}
+#box {
+  width: 200px;
+  height: 2000px;
+  background-color: red;
+  position: fixed;
+  top: 0;
+  left: 910px;
+
+}
+#article {
+  width: 900px;
+  height: 2000px;
+  background-color: maroon;
+  position: static;
+  top: 100px;
+}
